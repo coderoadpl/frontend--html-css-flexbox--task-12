@@ -1,0 +1,15 @@
+#paragraph-1{
+    color: red;
+}
+
+#paragraph-2{
+    color: green;
+}
+
+.main__paragraph{
+    background-color: black;
+}
+
+[type=email]{
+    color: red;
+}
